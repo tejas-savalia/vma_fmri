@@ -1,3 +1,8 @@
 analyses_files/
 feat/
 mvpa_outputs/correlation_csvs
+bids_fmriprep/
+derivatives/
+event_files/
+fmriprep_derivatives/
+glm_outputs/
